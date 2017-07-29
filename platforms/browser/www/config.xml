@@ -6,7 +6,7 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>florist24hrs</name>
+    <name>florist24hrs.com</name>
     <description>
         Web site Florist24hrs.com
     </description>
@@ -14,5 +14,13 @@
         Web Studio Solutions Team
     </author>
     <content src="index.html" />
-    <access origin="*" />
+    <access origin="http://www.florist24hrs.com*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="android-minSdkVersion" value="14" />
 </widget>

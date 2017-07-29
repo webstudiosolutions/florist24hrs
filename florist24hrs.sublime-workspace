@@ -11,7 +11,8 @@
 			"file": "www/index.html",
 			"settings":
 			{
-				"buffer_size": 2730,
+				"buffer_size": 2603,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -61,10 +62,17 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/isavalbuena/Sites/florist24hrs"
+		"/Users/isavalbuena/Sites/florist24hrs",
+		"/Users/isavalbuena/Sites/florist24hrs/platforms",
+		"/Users/isavalbuena/Sites/florist24hrs/platforms/browser",
+		"/Users/isavalbuena/Sites/florist24hrs/plugins",
+		"/Users/isavalbuena/Sites/florist24hrs/www"
 	],
 	"file_history":
 	[
+		"/Users/isavalbuena/Sites/florist24hrs/README.md",
+		"/Users/isavalbuena/Sites/testapp/www/spec.html",
+		"/Users/isavalbuena/Sites/florist24hrs/config.xml",
 		"/Users/isavalbuena/Sites/florist24hrs/www/index.html",
 		"/Users/isavalbuena/Sites/wscmanager.com/sftp-config.json",
 		"/Users/isavalbuena/Sites/wscmanager.com/assets/admin/js/custom.js",
@@ -180,15 +188,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2730,
+						"buffer_size": 2603,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2385,
+								2385
 							]
 						],
 						"settings":
@@ -200,15 +208,15 @@
 								{
 									"1":
 									[
-										14,
-										15
+										2589,
+										2593
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"Packages/BracketHighlighter/icons/tag.png",
 										"brackethighlighter.default"
 									]
 								},
@@ -216,8 +224,8 @@
 								{
 									"1":
 									[
-										0,
-										1
+										2380,
+										2384
 									]
 								},
 								"unmatched":

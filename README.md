@@ -1,10 +1,10 @@
-# A Blank PhoneGap App
+# A Florist24.com App
 
 ## Usage
 
-### PhoneGap CLI
+### Florist24 CLI
 
-    $ phonegap create my-app --template blank
+    $ phonegap create my-app --Florist24
 
 ### Desktop
 

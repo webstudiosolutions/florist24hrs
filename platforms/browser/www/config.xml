@@ -8,10 +8,10 @@
     </feature>
     <name>florist24hrs</name>
     <description>
-        A blank PhoneGap app.
+        Web site Florist24hrs.com
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="info@webstudiosolutions.com" href="http://www.webstudiosolutions.com">
+        Web Studio Solutions Team
     </author>
     <content src="index.html" />
     <access origin="*" />
